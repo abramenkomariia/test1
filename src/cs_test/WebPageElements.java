@@ -64,7 +64,7 @@ public class WebPageElements {
             String[] output3 = dataoutput_phone.split("\n");
             String[] output4 = dataoutput_email.split("\n");
 
-            for (int i = 0; i <= output.length-1; i++) {
+            for (int i = 0; i <= output.length-1; i++)  {
                 gettext.write(output[i]);
                 gettext.write(lineSeparator);
             }

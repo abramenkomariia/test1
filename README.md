@@ -6,4 +6,5 @@ Done work contains:
 3. Making XML file and specifying necessary XML tags
 4. Putting retrieved text (one language) into the XML file
 
-http://joxi.ru/MAjdVnRUjZYb3m
+
+![CtestFoldertext_ru_xml xml - Sublime Text (UNREGISTERED)](https://user-images.githubusercontent.com/40573712/58409901-c1a93200-8079-11e9-8cea-841acd3aaf02.jpg)

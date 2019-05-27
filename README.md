@@ -5,3 +5,5 @@ Done work contains:
 2. Creating a text file with a retrieved text
 3. Making XML file and specifying necessary XML tags
 4. Putting retrieved text (one language) into the XML file
+
+http://joxi.ru/MAjdVnRUjZYb3m
